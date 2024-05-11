@@ -1,0 +1,19 @@
+.d-flex {
+    display: flex;
+  }
+
+  .f-direction-colum {
+    flex-direction: column;
+  }
+
+  .a-items-center {
+    align-items: center;
+  }
+  
+  .gap-5xs {
+    gap: calc(var(--element-spacing) * 0.25);
+  }
+
+  .t-aling-center {
+    text-align: center;
+  }

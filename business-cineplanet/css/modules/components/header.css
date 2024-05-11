@@ -1,0 +1,3 @@
+.header {
+    box-shadow: 0 0 calc(var(--element-size) * 0.25) 0 var(--primary-shadow-color);
+  }

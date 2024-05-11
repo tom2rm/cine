@@ -1,0 +1,3 @@
+.nav {
+    padding-block: calc(var(--element-spacing) * 0.25);
+  }

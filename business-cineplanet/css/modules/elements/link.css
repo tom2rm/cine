@@ -1,0 +1,10 @@
+.link {
+    color: inherit;
+    font-weight: 600;
+    text-decoration: initial;
+    transition: color 0.25s;
+
+    &:hover {
+      color: var(--primary-color);
+    }
+  }

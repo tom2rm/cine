@@ -1,0 +1,8 @@
+.title {
+    margin: 0;
+    font-size: calc(var(--element-size) * 2);
+}
+
+.title--ig {
+    font-size: calc(var(--element-size) * 2.125);
+}

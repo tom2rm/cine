@@ -1,0 +1,19 @@
+:root {
+    --primary-color: #23b5d8;
+    --primary-text-color: black;
+    --secondary-text-color: rgb(102, 99, 99);
+    --dark-primary-text-color: #f1f5f8;
+    --primary-shadow-color: #01050880;
+    --primary-font-family: "Montserrat", sans-serif;
+    --max-width: 32rem;
+    --element-size: 0.875rem;
+    --element-spacing: 1.875rem;
+    --border-radius: 0.375rem;
+  
+    @media (width >=768px) {
+      --max-width: 64rem;
+      --element-size: 1rem;
+      --element-spacing: 2rem;
+      --border-radius: 0.5rem;
+    }
+  }

@@ -1,0 +1,12 @@
+.sub-title{
+    font-size: calc(var(--element-size) * 1.5);
+    color: var(--secondary-text-color);
+}
+
+.sub-title--sm {
+    font-size: calc(var(--element-size) * 1.375s);
+}
+
+.sub-title--xs {
+    font-size: calc(var(--element-size) * 1.25s);
+}
